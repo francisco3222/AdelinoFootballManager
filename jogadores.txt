@@ -1,0 +1,83 @@
+82
+Tiana Emard ; 33 ; Defesa ; 29 ; 70 ; 65 ; 45 ; 7
+Zoe Kuhlman ; 32 ; Avançado ; 89 ; 41 ; 56 ; 9 ; 7
+Kailee Hintz ; 39 ; Medio ; 91 ; 79 ; 11 ; 0 ; 8
+Wendell Kuvalis ; 30 ; Defesa ; 46 ; 62 ; 36 ; 26 ; 3
+Dr. Scot Carter ; 32 ; Medio ; 57 ; 68 ; 25 ; 33 ; 3
+Eleonore Langworth Sr. ; 31 ; Avançado ; 87 ; 20 ; 16 ; 45 ; 7
+Diana Barrows ; 26 ; Medio ; 93 ; 53 ; 57 ; 14 ; 2
+Rigoberto Pagac ; 32 ; Defesa ; 22 ; 50 ; 29 ; 22 ; 0
+Miss Sonny Gislason ; 30 ; Avançado ; 55 ; 44 ; 61 ; 15 ; 1
+Judd Funk ; 31 ; Avançado ; 94 ; 38 ; 49 ; 34 ; 7
+Rickie Powlowski ; 34 ; Avançado ; 52 ; 46 ; 69 ; 37 ; 7
+Salvatore Howell ; 29 ; Medio ; 86 ; 83 ; 86 ; 5 ; 8
+Marcellus Simonis ; 28 ; Defesa ; 43 ; 57 ; 41 ; 29 ; 6
+Cristian Hessel ; 31 ; Avançado ; 93 ; 49 ; 98 ; 14 ; 7
+Zane Rodriguez MD ; 27 ; Defesa ; 40 ; 99 ; 22 ; 4 ; 8
+Ms. Justina Flatley ; 27 ; Defesa ; 40 ; 77 ; 2 ; 48 ; 1
+Birdie Strosin ; 25 ; Avançado ; 75 ; 47 ; 17 ; 32 ; 3
+Royce Hilll MD ; 28 ; Medio ; 92 ; 72 ; 45 ; 14 ; 3
+Krista Schumm ; 33 ; Defesa ; 29 ; 97 ; 10 ; 34 ; 2
+Allison Fay ; 33 ; Medio ; 82 ; 54 ; 88 ; 9 ; 5
+Idell Ziemann Sr. ; 38 ; Medio ; 90 ; 72 ; 81 ; 32 ; 2
+Jovani Rowe ; 33 ; Defesa ; 26 ; 72 ; 73 ; 18 ; 0
+Kellen Welch ; 28 ; Medio ; 50 ; 83 ; 83 ; 0 ; 2
+Donnie Yost ; 38 ; Avançado ; 77 ; 33 ; 50 ; 49 ; 4
+Josianne Greenfelder I ; 34 ; Defesa ; 34 ; 85 ; 81 ; 42 ; 4
+Antone Wolff ; 29 ; Defesa ; 24 ; 69 ; 9 ; 2 ; 6
+Amina Hagenes ; 35 ; Medio ; 59 ; 96 ; 63 ; 46 ; 8
+Landen Zulauf ; 37 ; Defesa ; 44 ; 67 ; 23 ; 4 ; 8
+Mr. Bernardo Weber ; 27 ; Defesa ; 35 ; 66 ; 17 ; 19 ; 6
+Miss Kory Okuneva ; 32 ; Defesa ; 45 ; 76 ; 15 ; 3 ; 8
+Kenyatta Hyatt Sr. ; 29 ; Medio ; 76 ; 62 ; 77 ; 13 ; 7
+Johnathon Heidenreich ; 25 ; Medio ; 98 ; 98 ; 35 ; 32 ; 6
+Noel Watsica ; 27 ; Avançado ; 78 ; 45 ; 69 ; 13 ; 1
+Dorian Monahan PhD ; 34 ; Avançado ; 82 ; 29 ; 42 ; 49 ; 8
+Jean Kerluke ; 38 ; Medio ; 58 ; 53 ; 88 ; 6 ; 1
+Madie Hauck ; 34 ; Defesa ; 31 ; 88 ; 90 ; 10 ; 5
+Genevieve Ward ; 29 ; Avançado ; 75 ; 24 ; 94 ; 1 ; 5
+Kari Wintheiser DDS ; 37 ; Defesa ; 36 ; 69 ; 78 ; 25 ; 1
+Walter Larkin ; 26 ; Defesa ; 20 ; 66 ; 14 ; 37 ; 4
+Britney Schuppe DVM ; 33 ; Defesa ; 34 ; 87 ; 76 ; 47 ; 0
+Aliya Padberg ; 32 ; Avançado ; 73 ; 20 ; 58 ; 2 ; 7
+Shawn Wehner IV ; 39 ; Defesa ; 37 ; 84 ; 83 ; 41 ; 8
+Horacio Pagac ; 33 ; Medio ; 50 ; 65 ; 30 ; 6 ; 3
+Brandt Volkman ; 33 ; Defesa ; 38 ; 61 ; 32 ; 5 ; 3
+Dr. Mercedes Homenick ; 27 ; Medio ; 79 ; 58 ; 42 ; 49 ; 5
+Sherwood Koss ; 32 ; Defesa ; 31 ; 57 ; 93 ; 6 ; 8
+Dr. Eric Skiles ; 32 ; Avançado ; 80 ; 45 ; 95 ; 18 ; 4
+Claude Lind ; 37 ; Defesa ; 37 ; 96 ; 80 ; 26 ; 4
+Delaney Dicki ; 39 ; Medio ; 97 ; 73 ; 13 ; 8 ; 1
+Anya Parisian ; 37 ; Avançado ; 93 ; 44 ; 35 ; 41 ; 2
+Alexane Bradtke ; 39 ; Defesa ; 26 ; 96 ; 85 ; 45 ; 5
+Jarred Sauer ; 33 ; Medio ; 64 ; 87 ; 53 ; 22 ; 1
+Damon Cartwright ; 27 ; Avançado ; 88 ; 47 ; 34 ; 7 ; 7
+Geoffrey Kerluke ; 35 ; Avançado ; 53 ; 34 ; 23 ; 41 ; 5
+Mitchell Stamm V ; 33 ; Medio ; 70 ; 90 ; 95 ; 36 ; 6
+Dominique Koss MD ; 35 ; Avançado ; 83 ; 40 ; 25 ; 34 ; 1
+Bernadine Barrows III ; 39 ; Medio ; 99 ; 63 ; 21 ; 23 ; 0
+Carol Dibbert ; 33 ; Avançado ; 74 ; 39 ; 63 ; 48 ; 2
+Laron Bartoletti ; 33 ; Avançado ; 78 ; 26 ; 87 ; 1 ; 3
+Mr. Madie Funk ; 37 ; Defesa ; 27 ; 53 ; 82 ; 32 ; 1
+Beaulah Rempel ; 29 ; Medio ; 86 ; 97 ; 64 ; 19 ; 7
+Dr. Leora Rowe ; 34 ; Avançado ; 71 ; 25 ; 74 ; 21 ; 1
+Alysha Schuppe ; 29 ; Avançado ; 54 ; 45 ; 84 ; 8 ; 1
+Gerry McDermott ; 31 ; Avançado ; 71 ; 28 ; 26 ; 44 ; 5
+Minerva Swift ; 25 ; Avançado ; 52 ; 37 ; 26 ; 38 ; 6
+Dr. Niko Price ; 38 ; Defesa ; 28 ; 71 ; 66 ; 3 ; 3
+Tito O'Hara ; 39 ; Avançado ; 93 ; 28 ; 14 ; 3 ; 6
+Bryce Cronin ; 32 ; Medio ; 86 ; 72 ; 7 ; 11 ; 8
+Chauncey Swaniawski ; 29 ; Medio ; 72 ; 95 ; 1 ; 29 ; 7
+Seth Bauch ; 38 ; Medio ; 98 ; 60 ; 79 ; 28 ; 1
+Lenny Daugherty ; 25 ; Medio ; 65 ; 83 ; 80 ; 1 ; 5
+August Krajcik ; 30 ; Avançado ; 85 ; 37 ; 51 ; 10 ; 0
+Lois Roberts ; 32 ; Defesa ; 40 ; 87 ; 67 ; 19 ; 0
+Moriah Schaden ; 39 ; Defesa ; 48 ; 55 ; 69 ; 48 ; 6
+Merritt Bauch ; 33 ; Medio ; 53 ; 92 ; 82 ; 38 ; 5
+Devin Huels ; 38 ; Medio ; 74 ; 63 ; 84 ; 10 ; 6
+Pamela Wisozk ; 30 ; Defesa ; 28 ; 93 ; 35 ; 12 ; 1
+Davon Gulgowski IV ; 30 ; Avançado ; 61 ; 22 ; 39 ; 26 ; 0
+Cleveland McCullough ; 36 ; Defesa ; 35 ; 60 ; 46 ; 49 ; 5
+Cleveland Littel Jr. ; 26 ; Medio ; 53 ; 77 ; 19 ; 3 ; 8
+Justice Streich ; 27 ; Medio ; 87 ; 82 ; 99 ; 7 ; 6
+Elisha Williamson ; 37 ; Defesa ; 44 ; 90 ; 3 ; 27 ; 6
